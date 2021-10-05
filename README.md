@@ -2,6 +2,7 @@
 
 - 💻 Atualmente estou aprimorando minhas habilidades em HTML, CSS e JavaScript
 - 📚 Graduanda em Sistemas para Internet - Fatec Rubens Lara
+- 👩🏻‍💻 Estagiária em Desenvolvimento Front-End 
 
 <div>
 	<a href="https://github.com/viclsr">
